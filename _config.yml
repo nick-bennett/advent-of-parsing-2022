@@ -1,10 +1,13 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # remote_theme: just-the-docs/just-the-docs
 
-
-url: https://papibe.github.io/parsing-jtd
+url: https://papibe.github.io/advent-of-parsing-2022/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/papibe/advent-of-parsing-2022
