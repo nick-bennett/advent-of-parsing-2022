@@ -1,6 +1,10 @@
-remote_theme: jekyll/minima
-minima:
-  skin: dark
-show_excerpts: false
-header_pages:
-  - about.md
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
+
+
+url: https://papibe.github.io/parsing-jtd
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
